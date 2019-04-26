@@ -1,0 +1,388 @@
+    1  lsb_release
+    2  /etc
+    3  wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add - 
+    4  echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+    5  sudo apt update && sudo apt install sublime-text
+    6  man cowsay
+    7  sudo apt install cowsay
+    8  man cowsay\
+    9  man cowsay
+   10  man sublime
+   11  man sublime3
+   12  man Sublime3
+   13  lsb_release
+   14  cd ~/etc
+   15  cd ..
+   16  cd ~/etc
+   17  ls
+   18  ~/recruit
+   19  ~/recruit $ cd /
+   20  .
+   21  ls
+   22  lsb_release
+   23  lsb_release -a
+   24  ls /etc| grep <lsb_release>
+   25  lsb_release -a
+   26  ls /etc | grep<lsb_release>
+   27  ls/etc | grep <lsb_release>
+   28  cat<lsb_release>
+   29  lsb_release -a
+   30  sudo apt update cowsay
+   31  sudo apt install cowsay
+   32  sudo apt update
+   33  sudo apt install cowsay
+   34  sudo apt install fortune
+   35  sudo apt install figlet
+   36  sudo apt install lolcat
+   37  sudo apt install rig
+   38  man cowsay
+   39  man fortune
+   40  man figlet
+   41  man lolcat
+   42  man rig
+   43  fortune | cowsay
+   44  rig | cowsay
+   45  cowsay |cowsay
+   46  apt install cowsay
+   47  upgrade cowsay
+   48  sudo apt upgrade cowsay
+   49  figlet |cowsay
+   50  fortune | cowsay
+   51  lolcat | figlet
+   52  rig | cowsay
+   53  lolcat | cowsay
+   54  figlet | cowsay
+   55  fortune | cowsay
+   56  figlet | cowsay
+   57  fortune | cowsay
+   58  rig | cowsay
+   59  figlet | cowsay
+   60  lolcat | cowsay
+   61  man fortune
+   62  man figlet
+   63  man lolcat
+   64  fortune | cowsay | lolcat a-
+   65  fortune | cowsay | lolcat -a
+   66  man rig
+   67  fortune | lolcat | cowsay
+   68  figlet | cowsay | lolcat
+   69  figlet
+   70  fortune
+   71  sudo apt intsall fortune
+   72  sudo apt upgrade
+   73  sudo apt install fortune
+   74  fortune-mod
+   75  fortune
+   76  cowsay
+   77  sudo apt-get intsall fortune-mod
+   78  sudo apt get-install fortune
+   79  fortune version
+   80  /etc /bash.bashrc
+   81  cat etc
+   82  fortune | cowsay
+   83  sudo apt install fortune
+   84  sudo apt intsall fortune-mod
+   85  fourtune | cowsay | lolcat
+   86  sudo apt intsall fortune 
+   87  sudo apt install <fortune>
+   88  sudo apt install <fortune.deb>
+   89  fortune
+   90  sudo apt-get install fortune
+   91  lsb_release -a
+   92  cat /etc /*release
+   93  cat /etc /*lsb_release
+   94  ls /etc | grep <lsb_release>
+   95  cat /etc /*release
+   96  ls /etc | grep release
+   97  cat /etc/*release
+   98  ls /etc |grep <lsb_release>
+   99  ls /etc | grep<lsb_release>
+  100  ls /etc | grep <lsb_release>
+  101  sudo apt install cowsay
+  102  sudo apt upgrade
+  103  sudo apt install cowsay
+  104  sudo apt install fortune
+  105  sudo apt intsall figlet
+  106  sudo apt install lolcat
+  107  sudo apt install rig
+  108  fortune |cowsay
+  109  rig |cowsay
+  110  ls
+  111  cd /home
+  112  ls
+  113  cd /home /my_dir
+  114  cd ~/my_dir
+  115  cd /my_dir
+  116  pwd
+  117  cd /home /my_dir
+  118  ..
+  119  .
+  120  cd
+  121  cd /my_dir
+  122  pwd
+  123  cd /home
+  124  ls
+  125  cd/my_dir
+  126  cd /my_dir
+  127  cd home/ my_dir
+  128  ls -l
+  129  cd
+  130  ls -l
+  131  cd home
+  132  cd ~
+  133  ls ../..
+  134  cd /home /my_dir
+  135  ls
+  136  ls -l
+  137  cd home
+  138  cd
+  139  cd ~
+  140  sudo apt-get install git
+  141  mkdir <my_dir>
+  142  mkdir < mydir >
+  143  mkdir<my_dir>
+  144  mkdir <my_dir>
+  145  ls
+  146  .
+  147  /home
+  148  cd /home
+  149  ls
+  150  /
+  151  cd /
+  152  mkdir <my_dir>
+  153  mkdir my_dir
+  154  cd /home
+  155  mkdir my_dir
+  156  cd/cd~
+  157  cd / cd~
+  158  cd ~/recruit
+  159  /recruit
+  160  mkdir my_dir
+  161  ls -l /home
+  162  ls -l /recruit
+  163  ls -l /home/ recruit
+  164  mkdir <my_dir>
+  165  mkdir my_dir
+  166  chow recruit:recruit 
+  167  sudo mkdir my_dir
+  168  cd /my_dir
+  169  ls
+  170  cd / home / my_dir
+  171  man cowsay
+  172  cowsay -l
+  173  cowsay vader-koala
+  174  man cowsay
+  175  cowsay -f vader-koala
+  176  fortune | cowsay -f vader-koala
+  177  fortune | cowsay -f vader
+  178  man fortune
+  179  fortune -l | cowsay -f vader
+  180  man fortune
+  181  fortune -a | cowsay -f vader
+  182  sudo apt-get install fortune
+  183  fortune-mod -a | cowsay -f vader
+  184  man fortune
+  185  fortune
+  186  sudo apt-get install fortunes-min
+  187  fortune
+  188  fortune-mod -a | cowsay -f vader
+  189  fortune -a | cowsay -f vader
+  190  ls -l
+  191  cd /home /my_dir
+  192  cd ~/my_dir
+  193  ls
+  194  cd home/ my_dir/
+  195  sudo apt-get install cowsay
+  196  sudo apt-get install fortune
+  197  sudo apt-get install figlet 
+  198  ruby -v
+  199  gem install lolcat
+  200  chmod u=rwx gems
+  201  sudo apt-get install lolcat
+  202  echo "This is banner" | figlet | lolcat
+  203  fortune | cowsay | lolcat
+  204  git log -1 | cowsay -f dragon-and-cow | lolcat
+  205  -f cowfile
+  206  cowsay -f cowfile
+  207  ls -l
+  208  cd home/
+  209  cd /home/
+  210  ls -l
+  211  cd /home/my_dir
+  212  touch my_file
+  213  sudo touch my_file
+  214  touch my_file
+  215  chmod u = rwx my_file
+  216  chmod ua = rwx my_file
+  217  ls -l
+  218  chmod u = rwx
+  219  chmod --help
+  220  chmod a = rwx
+  221  chmod u = rwx
+  222  chmod ua + rwx
+  223  ls -l
+  224  ls
+  225  chmod ugo + rwx my_file
+  226  chmod u=rwx my_file
+  227  chmod u=777 my_file
+  228  chmod ugo=rwx my_file
+  229  chmod a=rwx my_file
+  230  ls -l
+  231  chmod u+x my_file
+  232  chmod u+x my_dir
+  233  cd /home/
+  234  ls -l
+  235  cd /recruit/
+  236  cd /home/recruit/
+  237  ls -l
+  238  cd home/
+  239  cd /home/
+  240  ls -l
+  241  cd /home/my_dir
+  242  chmod u+x my_file
+  243  cd /home
+  244  cd /home/my_dir
+  245  ls -l
+  246  chmod a=rwx my_file
+  247  chmod a+rwx my_file
+  248  chmod 707
+  249  chmod 707 my_file 
+  250  man chmod
+  251  ls -l
+  252  chmod a-x my_file 
+  253  ls -l
+  254  ls
+  255  chmod o=rwx my_file
+  256  sudo chmod o=rwx my_file
+  257  ls -l
+  258  sudosudo su
+  259  sudo su
+  260  chmod a=rwx my_file
+  261  sudo chmod a=rwx my_file
+  262  ls -l
+  263  sudo snap install --classic code # or code-insider
+  264  $ sudo snap install snap-store
+  265  curl https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > microsoft.gpg
+  266  sudo install -o root -g root -m 644 microsoft.gpg /etc/apt/trusted.gpg.d/
+  267  sudo sh -c 'echo "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main" > /etc/apt/sources.list.d/vscode.list'
+  268  sudo apt-get update
+  269  sudo apt-get install apt-transport-https
+  270  $ sudo apt update
+  271  sudo apt update
+  272  apt list --upgrade
+  273  apt list --upgradable
+  274  sudo apt install snapd
+  275  curl https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > microsoft.gpg
+  276  sudo install -o root -g root -m 644 microsoft.gpg /etc/apt/trusted.gpg.d/
+  277  sudo apt-get update
+  278  sudo apt-get install apt-transport-https
+  279  sudo apt-get install code
+  280  dpkg
+  281  ~/Downloads
+  282  sudo dpkg 1.33.1-1554971066_amd64.deb
+  283  sudo dpkg -i code_1.33.1-1554971066_amd64.deb
+  284  sudo snap install code --classic
+  285  curl https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > microsoft.gpg
+  286  sudo install -o root -g root -m 644 microsoft.gpg /etc/apt/trusted.gpg.d/
+  287  sudo apt-get update
+  288  sudo apt-get install apt-transport-https
+  289  sudo apt-get install code
+  290  curl https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > microsoft.gpg
+  291  sudo install -o root -g root -m 644 microsoft.gpg /etc/apt/trusted.gpg.d/
+  292  sudo sh -c 'echo "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main" > /etc/apt/sources.list.d/vscode.list'
+  293  sudo apt-get update
+  294  sudo apt-get install code
+  295  mkdir git-basic-exercises
+  296  cd git-basic-exercises
+  297  ls -a
+  298  git init
+  299  ls -a
+  300  git status
+  301  touch README.md
+  302  ls -a
+  303  git status
+  304  git log
+  305  git add README.md
+  306  git status
+  307  git remove README.md
+  308  git rm README.md
+  309  cd rp-portfolio
+  310  cd hello_world
+  311  ls -l
+  312  rm Real_Python_Django_Tutorial/
+  313  rmdir Real_Python_Django_Tutorial
+  314  ls -l
+  315  rmdir rp-portfolio
+  316  cd rp-portfolio
+  317  ls -l
+  318  cd recruit
+  319  .. /..
+  320  cd .. / ..
+  321  cd
+  322  rm -rf /rp-portfolio
+  323  ls 
+  324  rm -rf /rp-portfolio
+  325  ls -l
+  326  mkdir Django
+  327  ls -l
+  328  cd Django
+  329  mkdir git-basic-exercises
+  330  cd git-basic-exercises/
+  331  ls -a
+  332  git init 
+  333  ls -a
+  334  git status
+  335  touch README.md 
+  336  ls -a
+  337  git status
+  338  git log
+  339  git add README.md
+  340  git status
+  341  git reset HEAD README.md
+  342  git status
+  343  git reset HEAD README.md
+  344  git status
+  345  git add README.md
+  346  git status
+  347  git commit -m "initial commit"
+  348  git config --global user.email "you@example.com"
+  349  git config --global user.email "dimpho.mashile@umuzi.org"
+  350  git config --global user.name "Dimpho Mashile"
+  351  git log
+  352  git commit -m "initial commit"
+  353  git log
+  354  nano README.md 
+  355  cat README.md 
+  356  git stats
+  357  git status
+  358  git commit -m "second commit"
+  359  git add README.md
+  360  nano README.md 
+  361  cat README.md
+  362  git status
+  363  git commit -m "second commit" 
+  364  git add README.md
+  365  git commit -m "This is the second commit."
+  366  git log
+  367  nano README.md
+  368  git add README.md 
+  369  git commit -m "third commit."
+  370  git status
+  371  git log
+  372  git checkout 1fd2a3e129e3a1919e475ea5678efd38df10e87e
+  373  git branch
+  374  git branch milkshake-flavours
+  375  git checkout milkshake flavours
+  376  git checkout milkshake-flavours
+  377  nano milkshake-flavours
+  378  git status
+  379  commit -m 'added initial flavours" 
+
+  380  commit -m "added initial falvours"
+  381  git commit -m "added initial flavours"
+  382  git branch
+  383  git checkout master
+  384  git branch history
+  385  git checkout history
+  386  git log
+  387  history > history.txt
